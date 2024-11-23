@@ -30,6 +30,6 @@ I am islam bey zekkoub, a data scientist passionate about data analysis and buil
 - **Email:** islam.beyzekkoub@gmail.com
 - **LinkedIn:** www.linkedin.com/in/islam-bey-zekkoub-a13a34211
 - **Twitter:** https://x.com/IZekkoub
-git clone https://github.com/islem-bey/islem-bey.github.io
+
 ---
 

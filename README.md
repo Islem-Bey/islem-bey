@@ -29,7 +29,7 @@ I am islam bey, a data scientist passionate about data analysis and building mac
 ## 📫 Contact Me
 - **Email:** islam.beyzekkoub@gmail.com
 - **LinkedIn:** islam bey zekkoub(www.linkedin.com/in/islam-bey-zekkoub-a13a34211)
-- **Twitter:** @IZekkoub(https://twitter.com/YourHandle)
+- **Twitter:** @IZekkoub(https://x.com/IZekkoub)
 
 ---
 

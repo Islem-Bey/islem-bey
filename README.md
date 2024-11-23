@@ -42,6 +42,6 @@ I am islam bey zekkoub, a data scientist passionate about data analysis and buil
 ## 📫 Contact Me
 - **Email:** islam.beyzekkoub@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/islam-bey-zekkoub-a13a34211](https://linkedin.com/in/your-profile)
-- **Twitter:** [[@YourHandle](https://x.com/IZekkoub)](https://twitter.com/YourHandle)
+- **Twitter:** [[@IZekkoub](https://x.com/IZekkoub)]([https://twitter.com/YourHandle](https://x.com/IZekkoub))
 ---
 

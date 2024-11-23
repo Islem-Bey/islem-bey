@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**Islem-Bey/islem-bey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 🌟 Welcome to My GitHub Profile 🌟
 
 ## 👋 About Me
@@ -49,8 +33,3 @@ I am [Your Name], a data scientist passionate about data analysis and building m
 
 ---
 
-
-## المهارات:
-![Python](https://img.shields.io/badge/-Python-blue)
-![SQL](https://img.shields.io/badge/-SQL-orange)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-yellow)

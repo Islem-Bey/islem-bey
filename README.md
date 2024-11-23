@@ -1,14 +1,14 @@
 # 🌟 Welcome to My GitHub Profile 🌟
 
 ## 👋 About Me
-I am [Your Name], a data scientist passionate about data analysis and building machine learning models. I specialize in handling large datasets and creating solutions that empower businesses to make data-driven decisions.
+I am islam bey, a data scientist passionate about data analysis and building machine learning models. I specialize in handling large datasets and creating solutions that empower businesses to make data-driven decisions.
 
 ## 🛠️ Skills
 - **Programming Languages:** Python, SQL
 - **Machine Learning Libraries:** TensorFlow, scikit-learn
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Data Analysis Tools:** Pandas, NumPy
-- **Big Data Tools:** Spark, Hadoop (if applicable)
+- **Big Data Tools:** Spark, Hadoop 
 
 ## 💻 Projects
 ### 🔍 [Sales Data Analysis](https://github.com/your-repo-name)
@@ -27,9 +27,9 @@ I am [Your Name], a data scientist passionate about data analysis and building m
 - Automating workflows with Apache Airflow.
 
 ## 📫 Contact Me
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Twitter:** [@YourHandle](https://twitter.com/YourHandle)
+- **Email:** islam.beyzekkoub@gmail.com
+- **LinkedIn:** islam bey zekkoub(www.linkedin.com/in/islam-bey-zekkoub-a13a34211)
+- **Twitter:** @IZekkoub(https://twitter.com/YourHandle)
 
 ---
 

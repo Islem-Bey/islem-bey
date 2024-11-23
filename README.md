@@ -11,16 +11,20 @@ I am islam bey zekkoub, a data scientist passionate about data analysis and buil
 - **Big Data Tools:** Spark, Hadoop 
 
 ## 💻 Projects
-### 🔍 [Sales Data Analysis](https://github.com/your-repo-name)
+### 🔍 [Movie review Sentiment Analysis](https://github.com/your-repo-name)
 - Performed sales data analysis to uncover monthly trends and identify top-performing products.
 - **Tools Used:** Python, Pandas, Matplotlib.
 
-### 🤖 [Product Recommendation System](https://github.com/your-repo-name)
+### 🤖 [COVID Chest X-ray images Detection using CNN & transfer learning](https://github.com/your-repo-name)
 - Developed a recommendation system based on customer data to provide smart product suggestions.
 - **Tools Used:** Python, scikit-learn.
 
-### 📊 [Interactive Dashboard](https://github.com/your-repo-name)
+### 📊 [Music Genre Classification](https://github.com/your-repo-name)
 - Built a dashboard using Plotly and Dash to visualize e-commerce data interactively.
+
+### 🔍 [Diamond Price Prediction](https://github.com/your-repo-name)
+- Performed sales data analysis to uncover monthly trends and identify top-performing products.
+- **Tools Used:** Python, Pandas, Matplotlib.
 
 ## 🌱 Currently Learning
 - Enhancing models with neural networks.
@@ -30,6 +34,10 @@ I am islam bey zekkoub, a data scientist passionate about data analysis and buil
 - **Email:** islam.beyzekkoub@gmail.com
 - **LinkedIn:** www.linkedin.com/in/islam-bey-zekkoub-a13a34211
 - **Twitter:** https://x.com/IZekkoub
-
+## 📫 Contact Me
+- **Email:** your-email@example.com
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/islam-bey-zekkoub-a13a34211)
+- **Twitter:** [@YourHandle]([https://twitter.com/YourHandle](https://x.com/IZekkoub))
+- 
 ---
 
